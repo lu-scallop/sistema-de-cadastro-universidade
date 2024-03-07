@@ -24,3 +24,6 @@ Esse repositório compreende a segunda entrega do Projeto Integrador: Desenvolvi
 ## Casos de Uso
 ![Diagrama de Casos de Uso](Caso-de-uso.png)
 
+## Diagrama de Classes
+![Diagrama de Classes](Diagrama-de-classe.png)
+
