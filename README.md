@@ -5,10 +5,7 @@
 
 ## Integrantes do Grupo
 - Andreza Azevedo Gomes de Freitas
-- João Victor Kelson dos Santos Morais
 - Lucas Vieira Rocha
-- Luiz Otávio Silva Henriques
-- Silas Martins de Souza
 <br>
 
 ### Resumo
