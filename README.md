@@ -21,3 +21,6 @@ Esse repositório compreende a segunda entrega do Projeto Integrador: Desenvolvi
 - Login-Gestor: Solicita email e senha para acesso.
 - Painel-Controle: Acesso aos dados cadastrais de alunos, professores, funcionários e fornecedores. Além de informações de contratos, relatórios e contato direto com o suporte.
 
+## Casos de Uso
+![Diagrama de Casos de Uso](Caso-de-uso.png)
+
