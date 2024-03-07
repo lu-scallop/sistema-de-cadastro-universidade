@@ -19,5 +19,5 @@ Esse repositório compreende a segunda entrega do Projeto Integrador: Desenvolvi
 - Cadastro-Fornecedor: Solicita dados para o Fornecedor ser cadastrado no sistema.
 ### Gestor
 - Login-Gestor: Solicita email e senha para acesso.
-- Painel-Controle: Acesso aos dados cadastrais de alunos, professores, funcionários e fornecedores.Além de informações de contratos, relatórios e contato direto com o suporte.
+- Painel-Controle: Acesso aos dados cadastrais de alunos, professores, funcionários e fornecedores. Além de informações de contratos, relatórios e contato direto com o suporte.
 
