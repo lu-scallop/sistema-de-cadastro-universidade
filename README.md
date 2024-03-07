@@ -15,19 +15,6 @@ Nesta segunda etapa do Projeto Integrador, elaboramos protótipos das interfaces
 
 <br>
 
-## Telas 
-### Aluno
-- Cadastro-Aluno: Solicita dados importantes para o cadastro no sistema.
-- Login-Aluno: Página inicial que mostra a solicitação de email e senha para acesso a Área do Aluno.
-- Area-Aluno: Acesso a documentos, cursos e matrícula.
-### Professor
-- Cadastro-Professor: Solicita dados para o Professor ser cadastrado no sistema.
-### Fornecedor
-- Cadastro-Fornecedor: Solicita dados para o Fornecedor ser cadastrado no sistema.
-### Gestor
-- Login-Gestor: Solicita email e senha para acesso.
-- Painel-Controle: Acesso aos dados cadastrais de alunos, professores, funcionários e fornecedores. Além de informações de contratos, relatórios e contato direto com o suporte.
-<br>
 
 ## Casos de Uso
 ![Diagrama de Casos de Uso](Caso-de-uso.png)
@@ -36,6 +23,55 @@ Nesta segunda etapa do Projeto Integrador, elaboramos protótipos das interfaces
 
 ## Diagrama de Classes
 ![Diagrama de Classes](Diagrama-de-classe.png)
+
+<br>
+
+# Telas 
+## Aluno
+- **Login do Aluno:** Apresenta campos para inserção de email e senha, permitindo acesso à Área do Aluno. Também inclui um botão de 'CADASTRE-SE AGORA' para novos usuários que ainda não possuem cadastro na universidade.
+ 
+![Tela Login Aluno](Tela-Login-Aluno.png)
+
+<br>
+
+- **Cadastro-Aluno:** Solicita e valida os dados essenciais para o cadastro do aluno no sistema.
+
+ ![Tela Cadastro Aluno](Tela-Cadastro-Aluno.png)
+ 
+<br>
+
+- **Área-Aluno:** Acesso a documentos, cursos e matrícula.
+
+![Tela Aluno](Tela-Aluno.png)
+
+<br>
+
+## Gestor
+- **Login-Gestor:** Requer email e senha para autenticação, garantindo acesso restrito exclusivamente aos gestores do sistema.
+
+![Tela Login Gestão](Tela-Login-Gestão.png)
+
+<br>
+
+- **Painel-Controle-Gestão:** Permite acesso aos dados cadastrais de alunos, professores, funcionários e fornecedores. Além de fornecer informações sobre contratos, relatórios e contato direto com o suporte.
+
+ ![Tela Login Gestão](Tela-Gestor-Cadastro-Professor.png)
+ 
+<br>
+
+## Professor
+- **Cadastro-Professor:** Solicita e valida os dados essenciais para o registro do professor no sistema.
+
+![Tela Cadastro Professor](Tela-Cadastro-Professor.png)
+
+<br>
+
+## Fornecedor
+- **Cadastro-Fornecedor:** Solicita e valida os dados essenciais para o registro do fornecedor no sistema.
+
+![Tela Cadastro Professor](Tela-Cadastro-Fornecedor.png)
+
+<br>
 
 
 
