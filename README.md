@@ -27,3 +27,8 @@ Esse repositório compreende a segunda entrega do Projeto Integrador: Desenvolvi
 ## Diagrama de Classes
 ![Diagrama de Classes](Diagrama-de-classe.png)
 
+
+
+> [!NOTE]
+> Documentação em andamento...
+
