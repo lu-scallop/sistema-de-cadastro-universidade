@@ -1,5 +1,7 @@
-# Sistema de Cadastro de um Centro Universitário
-Esse repositório compreende a segunda entrega do Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos da faculdade SENAC (Serviço Nacional de Aprendizagem Comercial) sob a avaliação do professor Enoque Leal. Nesse projeto foram elaboradas telas de cadastro da universidade PrimeTech (fictícia) utilizando a ferramenta Figma.
+# PROJETO INTEGRADOR III: DESENVOLVIMENTO DE SISTEMAS ORIENTADO À OBJETOS
+
+## Sistema de Cadastro de um Centro Universitário
+<br>
 
 ## Integrantes do Grupo
 - Andreza Azevedo Gomes de Freitas
@@ -7,6 +9,14 @@ Esse repositório compreende a segunda entrega do Projeto Integrador: Desenvolvi
 - Lucas Vieira Rocha
 - Luiz Otávio Silva Henriques
 - Silas Martins de Souza
+<br>
+
+### Resumo
+Na primeira fase deste trabalho, apresentamos uma abordagem minuciosa da modelagem de um sistema de gestão de dados em um centro universitário, utilizando a Linguagem de Modelagem Unificada (UML). O foco foi na elaboração de um Diagrama de Casos de Uso que evidencia as principais interações entre os usuários e o sistema, seguido pela descrição dos cenários associados a cada caso de uso. Adicionalmente, introduzimos um Diagrama de Classes que representa a estrutura estática do sistema, identificando as classes principais e seus relacionamentos.
+
+Nesta segunda etapa do Projeto Integrador, elaboramos protótipos das interfaces de cadastro de uma universidade fictícia denominada PrimeTech, utilizando a ferramenta Figma. Estes protótipos têm como objetivo demonstrar de forma prática a visualização das interfaces que serão empregadas pelos usuários no sistema final.
+
+<br>
 
 ## Telas 
 ### Aluno
@@ -20,9 +30,12 @@ Esse repositório compreende a segunda entrega do Projeto Integrador: Desenvolvi
 ### Gestor
 - Login-Gestor: Solicita email e senha para acesso.
 - Painel-Controle: Acesso aos dados cadastrais de alunos, professores, funcionários e fornecedores. Além de informações de contratos, relatórios e contato direto com o suporte.
+<br>
 
 ## Casos de Uso
 ![Diagrama de Casos de Uso](Caso-de-uso.png)
+
+<br>
 
 ## Diagrama de Classes
 ![Diagrama de Classes](Diagrama-de-classe.png)
