@@ -8,6 +8,7 @@ Esse repositório compreende a segunda entrega do Projeto Integrador: Desenvolvi
 ## Integrantes do Grupo
 - Andreza Azevedo Gomes de Freitas
 - Lucas Vieira Rocha
+- João Victor Kelson dos Santos Morais
 <br>
 <br>
 
